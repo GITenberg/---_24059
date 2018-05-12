@@ -1,0 +1,29 @@
+_repo: '---_24059'
+_version: 0.1.0
+alternative_title: Huainan Zi
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Liu, An
+    alias: 劉安
+    deathdate: -122
+    gutenberg_agent_id: '26210'
+    url: http://www.gutenberg.org/2009/agents/26210
+    wikipedia: http://en.wikipedia.org/wiki/Liu_An
+description: ''
+gutenberg_issued: '2007-12-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24059'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Taoism -- China'
+- !lcc 'BL'
+- !lcsh 'Philosophy, Chinese -- 221 B.C.-960 A.D.'
+title: 淮南子
+url: http://www.gutenberg.org/ebooks/24059
